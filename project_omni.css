@@ -93,10 +93,10 @@ header h1{
   padding-right: 2%;
 }
 .bshare:hover{
-  background-color: #f2a7de;
+  background-color: #c485b3;
   text-decoration: none;
   color: white;
-  border-color: #f2a7de;
+  border-color: #c485b3;
 }
 .bmore:hover{
   background-color: #f2a7de;
@@ -512,15 +512,15 @@ header h1{
 }
 /*buttons*/
 .cell6 .button1:hover{
-  background-color: #f2a7de;
+  background-color: #c485b3;
   text-decoration: none;
   color: white;
-  border-color: #f2a7de;
+  border-color: #c485b3;
 }
 .button2:hover{
   background-color: #f2a7de;
   text-decoration: none;
-  color: white;
+  color: black;
 }
 .button1{
   border-radius: 200px;
@@ -633,8 +633,10 @@ header h1{
   color: white;
   font-size: 20px;
 }
-.buttons3 a:hover{
-  
+.buttons3:hover{
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: black;
 }
 textarea{
   height: 100px;
